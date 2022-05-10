@@ -1,0 +1,15 @@
+C:\Users\anaaf.javed\problem_solving_tasks\bin\Debug\net6.0\problem_solving_tasks.exe
+C:\Users\anaaf.javed\problem_solving_tasks\bin\Debug\net6.0\problem_solving_tasks.deps.json
+C:\Users\anaaf.javed\problem_solving_tasks\bin\Debug\net6.0\problem_solving_tasks.runtimeconfig.json
+C:\Users\anaaf.javed\problem_solving_tasks\bin\Debug\net6.0\problem_solving_tasks.dll
+C:\Users\anaaf.javed\problem_solving_tasks\bin\Debug\net6.0\problem_solving_tasks.pdb
+C:\Users\anaaf.javed\problem_solving_tasks\obj\Debug\net6.0\problem_solving_tasks.csproj.AssemblyReference.cache
+C:\Users\anaaf.javed\problem_solving_tasks\obj\Debug\net6.0\problem_solving_tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaaf.javed\problem_solving_tasks\obj\Debug\net6.0\problem_solving_tasks.AssemblyInfoInputs.cache
+C:\Users\anaaf.javed\problem_solving_tasks\obj\Debug\net6.0\problem_solving_tasks.AssemblyInfo.cs
+C:\Users\anaaf.javed\problem_solving_tasks\obj\Debug\net6.0\problem_solving_tasks.csproj.CoreCompileInputs.cache
+C:\Users\anaaf.javed\problem_solving_tasks\obj\Debug\net6.0\problem_solving_tasks.dll
+C:\Users\anaaf.javed\problem_solving_tasks\obj\Debug\net6.0\refint\problem_solving_tasks.dll
+C:\Users\anaaf.javed\problem_solving_tasks\obj\Debug\net6.0\problem_solving_tasks.pdb
+C:\Users\anaaf.javed\problem_solving_tasks\obj\Debug\net6.0\problem_solving_tasks.genruntimeconfig.cache
+C:\Users\anaaf.javed\problem_solving_tasks\obj\Debug\net6.0\ref\problem_solving_tasks.dll
