@@ -1,4 +1,6 @@
-﻿namespace HelloWorld
+﻿
+using System.Collections.Generic;
+namespace ProblemSet1
 {
     class Program
     {
@@ -15,7 +17,6 @@
         HashSet<int> hs = new HashSet<int>();
         
         for(int t = 0; t < test; t++) {
-            // reading input
              String str = Console.ReadLine();
              String[] strArr = str.Split(" ");
              int[] arr = new int[strArr.Length];
@@ -25,7 +26,7 @@
 
              // implementation
 
-              int max = arr.Length;
+              int n = arr.Length;
 
              for(int i = 1; i < arr.Length; i++) {
                  hs.Add(Math.Abs(arr[i] - arr[i-1]));
@@ -33,14 +34,9 @@
 
              Boolean isJolly = true;
 
-             for(int i = 0; i < arr.Length; i++) {
-                 int diff = arr[i];
-                if(diff != max && hs.Contains(diff)) {
-                    System.Console.WriteLine();
-                    continue;
-                } else if(diff != max) {
+             for(int i = 1; i <= n-1; i++) {
+                if(!hs.Contains(i)) {
                     isJolly = false;
-                    break;
                 }
              }
 
