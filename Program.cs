@@ -19,13 +19,13 @@
              String str = Console.ReadLine();
              String[] strArr = str.Split(" ");
              int[] arr = new int[strArr.Length];
-             int max = int.MinValue;
              for(int i = 0; i < strArr.Length; i++) {
                  arr[i] = int.Parse(strArr[i]);
-                 max = Math.Max(max, arr[i]);
              }
 
              // implementation
+
+              int max = arr.Length;
 
              for(int i = 1; i < arr.Length; i++) {
                  hs.Add(Math.Abs(arr[i] - arr[i-1]));
